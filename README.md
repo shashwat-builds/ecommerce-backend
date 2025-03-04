@@ -33,7 +33,7 @@ This is the backend for an **E-Commerce** platform built using **Node.js, Expres
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/ecommerce-backend.git
+git clone https://github.com/shashwat-builds/ecommerce-backend.git
 cd ecommerce-backend
 ```
 
