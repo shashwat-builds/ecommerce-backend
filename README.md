@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This is the backend for an **E-Commerce** platform built using **Node.js, Express, MongoDB, and JWT authentication**. It supports **user authentication, product management, order processing, and Razorpay payment integration**.
+This is the backend for an **E-Commerce** platform built using **Node.js, Express, MongoDB, and JWT authentication**. It supports **user authentication, product management and order processing**.
 
 ---
 
