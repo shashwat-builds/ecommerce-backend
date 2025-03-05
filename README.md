@@ -13,8 +13,6 @@ This is the backend for an **E-Commerce** platform built using **Node.js, Expres
 - **Product Management** (CRUD operations for products)
 - **Cart Functionality** (Add, remove, update cart items)
 - **Order Processing** (Place and manage orders)
-- **Razorpay Payment Integration**
-- **Email Notifications** (Order confirmation emails via Nodemailer)
 
 ---
 
@@ -23,8 +21,6 @@ This is the backend for an **E-Commerce** platform built using **Node.js, Expres
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (Mongoose ODM)
 - **Authentication:** JWT (JSON Web Tokens)
-- **Payment Gateway:** Razorpay
-- **Email Service:** Nodemailer
 
 ---
 
